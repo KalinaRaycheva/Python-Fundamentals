@@ -1,2 +1,2 @@
 # Python-Fundamentals
-Fundamentals exercise for upgrade skills.
+exercises for upgrade
