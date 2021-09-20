@@ -1,2 +1,2 @@
 # Python-Fundamentals
-exercises for upgrade
+python fundamentals course
