@@ -1,2 +1,2 @@
-# Python-Fundamentals
-python fundamentals course
+# Python-Fundamentals course
+
